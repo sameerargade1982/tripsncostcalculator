@@ -27,13 +27,21 @@ a pom.xml for the parent project and this readme.md file.
 id
  
 1,2022-01-26 20:45:59,ON,Stop1,Company1,Bus1,12345
+
 2,2022-01-26 20:58:59,OFF,Stop2,Company1,Bus1,12345
+
 3,2022-01-26 20:45:59,ON,Stop1,Company2,Bus2,12346
+
 4,2022-01-26 20:45:59,OFF,Stop1,Company2,Bus2,12346
+
 5,2022-01-26 20:45:59,ON,Stop1,Company2,Bus2,12347
+
 6,2022-01-26 20:55:59,OFF,Stop3,Company2,Bus2,12347
+
 7,2022-01-26 20:45:59,ON,Stop1,Company2,Bus3,12348
+
 8,2022-01-26 20:55:59,ON,Stop3,Company2,Bus4,12348
+
 9,2022-01-26 21:05:59,OFF,Stop1,Company2,Bus3,12348
 
 ### Sample Output Trips.txt
