@@ -46,4 +46,7 @@ id
 
 ### Sample Output Trips.txt
 
-Trip(started=2022-01-26T20:45:59, finished=2022-01-26T20:58:59, durationInSeconds=780, fromStopId=Stop1, toStopId=Stop2, chargeAmount=3.25, companyId=Company1, busId=Bus1, pan=12345, tripStatus=COMPLETED)Trip(started=2022-01-26T20:45:59, finished=2022-01-26T20:55:59, durationInSeconds=600, fromStopId=Stop1, toStopId=Stop3, chargeAmount=7.3, companyId=Company2, busId=Bus2, pan=12347, tripStatus=COMPLETED)Trip(started=2022-01-26T20:45:59, finished=2022-01-26T21:05:59, durationInSeconds=1200, fromStopId=Stop1, toStopId=Stop1, chargeAmount=0.0, companyId=Company2, busId=Bus3, pan=12348, tripStatus=CANCELLED)Trip(started=2022-01-26T20:45:59, finished=2022-01-26T20:45:59, durationInSeconds=0, fromStopId=Stop1, toStopId=Stop1, chargeAmount=0.0, companyId=Company2, busId=Bus2, pan=12346, tripStatus=INCOMPLETE)
+Trip(started=2022-01-26T20:45:59, finished=2022-01-26T20:58:59, durationInSeconds=780, fromStopId=Stop1, toStopId=Stop2, chargeAmount=3.25, companyId=Company1, busId=Bus1, pan=12345, tripStatus=COMPLETED)
+Trip(started=2022-01-26T20:45:59, finished=2022-01-26T20:55:59, durationInSeconds=600, fromStopId=Stop1, toStopId=Stop3, chargeAmount=7.3, companyId=Company2, busId=Bus2, pan=12347, tripStatus=COMPLETED)
+Trip(started=2022-01-26T20:45:59, finished=2022-01-26T21:05:59, durationInSeconds=1200, fromStopId=Stop1, toStopId=Stop1, chargeAmount=0.0, companyId=Company2, busId=Bus3, pan=12348, tripStatus=CANCELLED)
+Trip(started=2022-01-26T20:45:59, finished=2022-01-26T20:45:59, durationInSeconds=0, fromStopId=Stop1, toStopId=Stop1, chargeAmount=0.0, companyId=Company2, busId=Bus2, pan=12346, tripStatus=INCOMPLETE)
