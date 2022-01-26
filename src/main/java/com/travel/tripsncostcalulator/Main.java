@@ -23,5 +23,6 @@ public class Main {
 		sortedTaps.peek(calculateTrip::processTrip).collect(Collectors.toList());
 		Set<Trip> trips = calculateTrip.getTrips();
 		fw.writeFile(args[1], trips);
+		System.out.println("Filed Processed successfully");
 	}
 }
