@@ -24,7 +24,8 @@ a pom.xml for the parent project and this readme.md file.
   
 ### Sample Taps.txt
 
-id 
+id
+ 
 1,2022-01-26 20:45:59,ON,Stop1,Company1,Bus1,12345
 2,2022-01-26 20:58:59,OFF,Stop2,Company1,Bus1,12345
 3,2022-01-26 20:45:59,ON,Stop1,Company2,Bus2,12346
